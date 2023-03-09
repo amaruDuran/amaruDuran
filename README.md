@@ -2,10 +2,10 @@
 
 I'm a student of "Lic. en sistemas" in University of Buenos Aires.
 
-
+#### Public stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amaruDuran&count_private=true&theme=tokyonight&show_icons=true)
 
-
+#### 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amaruDuran&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/amaruDuran/github-readme-stats)
 
 
