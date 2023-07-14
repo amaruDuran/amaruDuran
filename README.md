@@ -1,9 +1,9 @@
-### Hi there, I'm Amaru 👋 
+### Buenas!, Soy Amaru 👋 
 
-I'm a student of "Lic. en sistemas" in University of Buenos Aires.
+Actualmente estudiante de 4to año de Ingeniería en Informatica - UBA.
 
 
-### Public Stats
+### Estadísticas Públicas
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amaruDuran&count_private=true&theme=tokyonight&show_icons=true)
 --
