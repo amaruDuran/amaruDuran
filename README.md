@@ -1,7 +1,6 @@
 ### Buenas!, Soy Amaru 👋 
 
-Actualmente estudiante de 5to año de Ingeniería en Informatica - UBA.
-
+Estudiante avanzado de Ingeniería en Informatica en UBA.
 
 ### Estadísticas Públicas
 
