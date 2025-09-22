@@ -1,6 +1,8 @@
 ### Buenas! Soy Amaru 👋 
 
-Ingeniero en Informática UBA y ayudante de las materias "Pensamiento Computacional UBA XXI" e "Introducción a la ciencia de datos FIUBA".
+🎓 Ingeniero en Informática UBA
+
+🚀 Ayudante de las materias "Pensamiento Computacional UBA XXI" e "Introducción a la ciencia de datos FIUBA".
 
 ### Estadísticas Públicas
 
