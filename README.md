@@ -1,6 +1,6 @@
-### Buenas!, Soy Amaru 👋 
+### Buenas! Soy Amaru 👋 
 
-Estudiante avanzado de Ingeniería en Informatica en UBA.
+Ingeniero en Informática UBA y ayudante de las materias "Pensamiento Computacional UBA XXI" e "Introducción a la ciencia de datos FIUBA".
 
 ### Estadísticas Públicas
 
